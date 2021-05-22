@@ -34,7 +34,7 @@ namespace WebAPI.Controllers
         }
 
 
-        [HttpGet("getclinicdetails")]
+        [HttpGet("getclinicbyid")]
 
         public IActionResult GetClinicDetails(int clinicId)
         {

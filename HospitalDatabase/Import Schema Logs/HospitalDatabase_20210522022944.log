@@ -1,0 +1,84 @@
+22.05.2021 17:29:44	This log contains information about the import schema operation into project 'HospitalDatabase' on computer 'DESKTOP-EIN0AEA' by user 'Lenovo'.
+22.05.2021 17:29:44	Import of database schema has started.
+22.05.2021 17:29:52	Gathering database credentials
+22.05.2021 17:29:52	Gathering database options
+22.05.2021 17:29:52	Gathering users
+22.05.2021 17:29:52	Gathering roles
+22.05.2021 17:29:52	Gathering application roles
+22.05.2021 17:29:52	Gathering role memberships
+22.05.2021 17:29:52	Gathering filegroups
+22.05.2021 17:29:52	Gathering full-text catalogs
+22.05.2021 17:29:52	Gathering assemblies
+22.05.2021 17:29:52	Gathering certificates
+22.05.2021 17:29:52	Gathering asymmetric keys
+22.05.2021 17:29:52	Gathering symmetric keys
+22.05.2021 17:29:52	Gathering encrypted symmetric keys
+22.05.2021 17:29:52	Gathering schemas
+22.05.2021 17:29:52	Gathering XML schema collections
+22.05.2021 17:29:52	Gathering user-defined data types
+22.05.2021 17:29:52	Gathering user-defined types
+22.05.2021 17:29:52	Gathering table types
+22.05.2021 17:29:52	Gathering unique keys for table types
+22.05.2021 17:29:52	Gathering primary keys for table types
+22.05.2021 17:29:52	Gathering indexes for table types
+22.05.2021 17:29:52	Gathering check constraints for table types
+22.05.2021 17:29:52	Gathering default constraints for table types
+22.05.2021 17:29:52	Gathering partition functions
+22.05.2021 17:29:52	Gathering partition schemes
+22.05.2021 17:29:53	Gathering functions
+22.05.2021 17:29:53	Gathering encrypted functions
+22.05.2021 17:29:53	Gathering aggregates
+22.05.2021 17:29:53	Gathering procedures
+22.05.2021 17:29:53	Gathering encrypted procedures
+22.05.2021 17:29:53	Gathering tables
+22.05.2021 17:29:53	Gathering primary keys
+22.05.2021 17:29:53	Gathering unique constraints
+22.05.2021 17:29:53	Gathering foreign keys
+22.05.2021 17:29:53	Gathering default constraints
+22.05.2021 17:29:53	Gathering check constraints
+22.05.2021 17:29:53	Gathering views
+22.05.2021 17:29:53	Gathering encrypted views
+22.05.2021 17:29:53	Gathering indexes
+22.05.2021 17:29:53	Gathering statistics
+22.05.2021 17:29:53	Gathering full-text index stoplists
+22.05.2021 17:29:53	Gathering search property lists
+22.05.2021 17:29:53	Gathering search properties
+22.05.2021 17:29:53	Gathering full-text indexes
+22.05.2021 17:29:53	Gathering column store indexes
+22.05.2021 17:29:53	Gathering spatial indexes
+22.05.2021 17:29:53	Gathering XML indexes
+22.05.2021 17:29:53	Gathering Selective XML indexes
+22.05.2021 17:29:53	Gathering encrypted triggers
+22.05.2021 17:29:53	Gathering triggers
+22.05.2021 17:29:53	Gathering encrypted and clr ddl triggers
+22.05.2021 17:29:53	Gathering ddl triggers
+22.05.2021 17:29:53	Gathering synonyms
+22.05.2021 17:29:53	Gathering defaults
+22.05.2021 17:29:53	Gathering data constraint uddt bindings
+22.05.2021 17:29:53	Gathering rules
+22.05.2021 17:29:53	Gathering data constraint uddt bindings
+22.05.2021 17:29:53	Gathering message types
+22.05.2021 17:29:53	Gathering queues
+22.05.2021 17:29:53	Gathering contracts
+22.05.2021 17:29:53	Gathering services
+22.05.2021 17:29:53	Gathering event notifications
+22.05.2021 17:29:53	Gathering remote service bindings
+22.05.2021 17:29:53	Gathering broker priorities
+22.05.2021 17:29:53	Gathering signatures
+22.05.2021 17:29:53	Gathering data compression options
+22.05.2021 17:29:53	Gathering sequence types
+22.05.2021 17:29:53	Gathering security policies
+22.05.2021 17:29:53	Gather column encryption keys
+22.05.2021 17:29:53	Gathering column master keys
+22.05.2021 17:29:53	Gathering external data sources
+22.05.2021 17:29:53	Gathering external file formats
+22.05.2021 17:29:53	Gathering external tables
+22.05.2021 17:29:53	Gathering extended properties
+22.05.2021 17:29:53	Gathering credentials
+22.05.2021 17:29:53	Gathering logins
+22.05.2021 17:29:53	Gathering server audits
+22.05.2021 17:29:53	Scanning project for duplicate elements
+22.05.2021 17:29:53	Finished duplicate element processing
+22.05.2021 17:29:54	Finished importing database.
+22.05.2021 17:29:54	A summary of the import was saved to the following location: C:\Users\Lenovo\source\repos\HospitalEquipmentProject\HospitalDatabase\Import Schema Logs\HospitalDatabase_20210522022944.log
+22.05.2021 17:29:54	Click Finish to continue...
